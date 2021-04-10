@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73733498.chunk.css",
+    "main.js": "/static/js/main.e7562f15.chunk.js",
+    "main.js.map": "/static/js/main.e7562f15.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8d60067e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8d60067e.js.map",
+    "static/css/2.b178a032.chunk.css": "/static/css/2.b178a032.chunk.css",
+    "static/js/2.fb1a433f.chunk.js": "/static/js/2.fb1a433f.chunk.js",
+    "static/js/2.fb1a433f.chunk.js.map": "/static/js/2.fb1a433f.chunk.js.map",
+    "static/js/3.04880854.chunk.js": "/static/js/3.04880854.chunk.js",
+    "static/js/3.04880854.chunk.js.map": "/static/js/3.04880854.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b178a032.chunk.css.map": "/static/css/2.b178a032.chunk.css.map",
+    "static/css/main.73733498.chunk.css.map": "/static/css/main.73733498.chunk.css.map",
+    "static/js/2.fb1a433f.chunk.js.LICENSE.txt": "/static/js/2.fb1a433f.chunk.js.LICENSE.txt",
+    "static/media/quickmeedit.e3919d69.png": "/static/media/quickmeedit.e3919d69.png",
+    "static/media/weirdmearnold.750668c1.png": "/static/media/weirdmearnold.750668c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d60067e.js",
+    "static/css/2.b178a032.chunk.css",
+    "static/js/2.fb1a433f.chunk.js",
+    "static/css/main.73733498.chunk.css",
+    "static/js/main.e7562f15.chunk.js"
+  ]
+}
