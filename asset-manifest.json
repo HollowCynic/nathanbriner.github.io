@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nathanbriner.github.io/static/css/main.73733498.chunk.css",
-    "main.js": "/nathanbriner.github.io/static/js/main.095af564.chunk.js",
-    "main.js.map": "/nathanbriner.github.io/static/js/main.095af564.chunk.js.map",
+    "main.js": "/nathanbriner.github.io/static/js/main.fd53d4bc.chunk.js",
+    "main.js.map": "/nathanbriner.github.io/static/js/main.fd53d4bc.chunk.js.map",
     "runtime-main.js": "/nathanbriner.github.io/static/js/runtime-main.9d3e52ce.js",
     "runtime-main.js.map": "/nathanbriner.github.io/static/js/runtime-main.9d3e52ce.js.map",
     "static/css/2.b178a032.chunk.css": "/nathanbriner.github.io/static/css/2.b178a032.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.b178a032.chunk.css",
     "static/js/2.71cf9a95.chunk.js",
     "static/css/main.73733498.chunk.css",
-    "static/js/main.095af564.chunk.js"
+    "static/js/main.fd53d4bc.chunk.js"
   ]
 }
