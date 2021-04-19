@@ -1,0 +1,20 @@
+[
+    {
+        "Class":"computer science class",
+        "Day": "MWF",
+        "Time": "9:00",
+        "EndTime": "9:30"
+    },
+
+    {
+        "Class":"Math Class",
+        "Day": "MWF",
+        "Time": "9:00",
+        "EndTime": "9:30"
+    },
+
+    {
+        "Class":"Art Class",
+        "Day": "TTH"
+    }
+]

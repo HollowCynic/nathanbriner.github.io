@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .App-logo {
@@ -36,3 +36,164 @@
     transform: rotate(360deg);
   }
 }
+
+.header-color{
+  background: #0F2027;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/*Landing Page Styles*/
+
+.landing-grid{
+  background: #bdc3c7;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+}
+
+.random-image{
+  height:250px;
+  padding-top:5em;
+  margin-right:auto;
+  margin-left:auto;
+  display:block;
+  /*float: right;*/
+}
+
+.banner-text{
+  background-color: black;
+  opacity: .8;
+  width: 50%;
+  margin:auto;
+  border-radius:10px;
+  /*float:center;*/
+}
+
+.banner-text h1{
+  font-size: 66px;
+  font-weight: bold;
+  color:white;
+  text-align: center;
+}
+
+.banner-text hr{
+  border-top:5px dotted white;
+  width:50%;
+  margin:auto;
+}
+
+.banner-text p{
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+  text-align:center;
+}
+
+.column {
+ /* float: left;*/
+  width: 33.33%;
+  position:absolute;
+  bottom:0;
+}
+
+.social-links{
+  display:flex;
+  justify-content: space-between;
+  width: 50%;
+  margin:auto;
+}
+
+.social-links i{
+  color: white;
+  font-size: 5em;
+  padding:8px;
+}
+
+/*Schedule Styles*/
+
+.schedule-header{
+  color:white;
+  padding:8px;
+  padding-top: 30px;
+}
+
+h2.schedule-header-no-white{
+  padding:0;
+  margin:0;
+}
+
+.schedule-table{
+  font-size:20px;
+  background: #506493;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #4286f4, #485a89);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4286f4, #4d6293); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.schedule-table td{
+  color:white;
+}
+
+.schedule-table tr{
+  color:white;
+}
+
+.class-box{
+  color:white;
+}
+
+/*Resume Styles*/
+.resume-right-col{
+  background:#201d1a;
+  color: white;
+  opacity:.8;
+  padding:2em;
+
+}
+
+.resume-grid{
+  background: #bdc3c7;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  height:100%;
+}
+
+.div-100{
+  height:100%;
+}
+
+.schedule-paragraph{
+  color:white;
+}
+
+.education{
+  float:left;
+}
+
+/*Button Styling*/
+
+.button-class{
+  background:#333;
+  color: #fff;
+  padding: '1rem 2rem';
+  border: none;
+  text-transform: 'uppercase';
+  margin:'15px 0'
+}
+
+/*Draggable List Styling*/
+.draggable{
+  background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+  text-align:center;
+  margin:10px;
+  padding:25px;
+  font-size:36px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  border-radius:15px;
+
+}
+

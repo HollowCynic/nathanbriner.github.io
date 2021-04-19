@@ -1,0 +1,26 @@
+[
+    {
+    "name": "Class1",
+    "loc": "CH 276",
+    "start_time": "3:00",
+    "days": ["Mon", "Wed", "Fri"],
+    "time": "3-3:50",
+    "includes": "3:30",
+    "row_span": 2},
+    {
+    "name": "Class2",
+    "loc": "CH 276",
+    "start_time": "12:00",
+    "days": ["Mon", "Wed", "Fri"],
+    "time": "12-12:50",
+    "includes": "12:30",
+    "row_span": 2},
+    {
+    "name": "Class3",
+    "loc": "CH 276",
+    "start_time": "10:00",
+    "days": ["Mon", "Wed", "Fri"],
+    "time": "10-10:50",
+    "includes": "10:30",
+    "row_span": 2}
+]

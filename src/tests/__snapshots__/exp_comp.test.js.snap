@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test experiment comp 1b in a different way 1`] = `
+<DocumentFragment>
+  <div
+    style="margin-top: -500px;"
+  >
+    <div
+      style="background: slateblue; color: white; padding: 1.5rem;"
+    >
+      <h1>
+        Component 1B
+      </h1>
+      <p>
+        This object should drop down from top of the screen and fade in
+      </p>
+      <button
+        class="button-class"
+      >
+        This Button Does Nothing
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`test experiment comp 3 1`] = `
+<DocumentFragment>
+  <div
+    style="opacity: 1;"
+  >
+    <div
+      style="background: skyblue; color: white; padding: 1.5rem; margin-bottom: 0px;"
+    >
+      <h1>
+        Component 3
+      </h1>
+      <p
+        style="color: grey; font-size: 18px;"
+      >
+        This is the third component. 
+        <b>
+          Click
+        </b>
+         the component to fade out
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

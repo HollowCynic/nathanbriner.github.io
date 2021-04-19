@@ -1,0 +1,26 @@
+[
+    {
+    "name": "Sock Puppet",
+    "loc": "CH 336",
+    "start_time": "10:00",
+    "days": ["Mon", "Wed", "Fri"],
+    "time": "10:00-11:50",
+    "includes": ["10:30","11:00","11:30"],
+    "row_span": 4},
+    {
+    "name": "Python",
+    "loc": "CH 276",
+    "start_time": "12:00",
+    "days": ["Mon", "Wed", "Fri"],
+    "time": "12-12:50",
+    "includes": "12:30",
+    "row_span": 2},
+    {
+    "name": "Some Other Class",
+    "loc": "CH 276",
+    "start_time": "3:00",
+    "days": ["Mon", "Wed", "Fri"],
+    "time": "3:00-3:50",
+    "includes": "3:30",
+    "row_span": 2}
+]
